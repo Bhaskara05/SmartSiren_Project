@@ -61,7 +61,7 @@ SmartSiren/
 
 ## 🤝 Contributors
 
-* Bhaskara (https://github.com/Bhaskara-Boss) – Project Lead & Backend and database Developer
+* Bhaskara (https://github.com/Bhaskara05) – Project Lead & Backend and database Developer
 * Prasad A M (https://github.com/am-prasad) – frontend and UI/UX Developer
 * Khushal L (https://github.com/Khushal) – Proteus and Version Control 
 
