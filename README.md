@@ -40,7 +40,6 @@ In densely populated cities, ambulances are often delayed by traffic signals. Ou
 
 ## 📽️ Demo / Simulation Preview
 
-(Add a screenshot or GIF of the working web app and Proteus simulation here)
 
 ## 📂 Project Structure
 
